@@ -1,0 +1,7 @@
+到下面的网站中，将所有的命令下载下来
+https://wangchujiang.com/linux-command/hot.html
+单个详情信息
+https://wangchujiang.com/linux-command/c/ab.html
+<div class="markdown-body">
+#git
+https://github.com/jaywcjlove/linux-command
