@@ -1,7 +1,3 @@
-https://docs.gradle.org/current/userguide/tutorial_using_tasks.html
+Gradle 是一种开源构建自动化工具，其设计足够灵活，几乎可以构建任何类型的软件。
 
-https://docs.gradle.org/current/userguide/custom_tasks.html#custom_tasks
-
-https://developer.android.com/studio/build/gradle-tips?hl=zh-cn
-
-https://chaosleong.gitbooks.io/gradle-for-android/content/advanced_build_customization/manipulating_tasks.html
+[快速入门](01-getting-start.md)
